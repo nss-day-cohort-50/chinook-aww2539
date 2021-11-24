@@ -1,0 +1,3 @@
+SELECT * COUNT(*)
+FROM Invoice
+WHERE Year IS "2009" OR "2011"
